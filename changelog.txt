@@ -1,6 +1,11 @@
 react note app
 
-59:30秒
+1:11:00秒https://youtu.be/zqV7NIFGDrQ?t=3568
+
+＃_1.2 規劃state & props (2021-11-13)
+#規劃state & props 
+#setA +200 加法值會返回上次的數據
+
 ＃_1.1 建立好版型(2021-10-30)
 -新增一個備忘錄
 -加入記事，日期，時間 新增鍵
